@@ -2,11 +2,11 @@
 # questions or problems! We can run through it together if you'd like :)
 
 # Homebrew installation.
-echo "\n\n#######################"
-echo "# INSTALLING HOMEBREW #"
-echo "#######################\n\n"
-echo "\n"
-yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# echo "\n\n#######################"
+# echo "# INSTALLING HOMEBREW #"
+# echo "#######################\n\n"
+# echo "\n"
+# yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Installing git.
 echo "\n\n##################"
